@@ -1,0 +1,454 @@
+{
+  "main": {
+    "id": "8d5e402b690d55b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "3269cce41aa8254a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "457bb833de988d07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eSocial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0260d13165429f92",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "evtCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "464a2f78ef1fbe77",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "8c79378a78479252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "evtCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96c65f376f5f0cc9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoCS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24ede825b6d124ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoCPSeg.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfbc71ce56fffbd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoContrib.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4bf24b333d39afa2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoPJ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34745a00d326619a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoAtConc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0c46f941c8d467d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideEstab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "67f2fd7a41793393",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoEstab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "acb6ad5f39da4a9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoEstabRef.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "93a085ad8293aca5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoComplObra.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1d7efad1b38a08c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ideLotacao.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3174012eb540b288",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoTercSusp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a54bd0b9d8effe72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoEmprParcial.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "51698d23353b3dd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "dadosOpPort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e809d8449203f69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basesRemun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "24c9fd34e072dfbb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basesCp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7e2bb241a543e2de",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basesAvNPort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "12486504b7e55e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoSubstPatrOpPort.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6f67f9c91ad0fd7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basesAquis.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ef19581481fd1911",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "basesComerc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c82698399aad1c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "infoCREstab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f7dc8b93f4216fad",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 24
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e2ce0d5d891a6361",
+    "type": "split",
+    "children": [
+      {
+        "id": "49207309df415638",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "49f20dbf23c55eb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "190adea71ddc3a4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9764dca1fef03ce9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a224ff4417589051",
+    "type": "split",
+    "children": [
+      {
+        "id": "8de82f4067843c25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07a9e5c869167e48",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "99de2734ce0c500b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7807b32a44e0eed2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0ec3772f2cc0d137",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "f7dc8b93f4216fad",
+  "lastOpenFiles": [
+    "infoCS.md",
+    "ideEstab.md",
+    "ideLotacao.md",
+    "basesRemun.md",
+    "ideEvento.md",
+    "infoEstab.md",
+    "infoPJ.md",
+    "infoContrib.md",
+    "infoCRContrib.md",
+    "infoCREstab.md",
+    "basesComerc.md",
+    "basesAquis.md",
+    "infoSubstPatrOpPort.md",
+    "basesAvNPort.md",
+    "basesCp.md",
+    "dadosOpPort.md",
+    "infoEmprParcial.md",
+    "infoTercSusp.md",
+    "infoComplObra.md",
+    "infoEstabRef.md",
+    "infoAtConc.md",
+    "infoCPSeg.md",
+    "ideEmpregador.md",
+    "evtCS.md",
+    "eSocial.md"
+  ]
+}
